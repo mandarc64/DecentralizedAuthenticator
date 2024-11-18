@@ -28,9 +28,6 @@ Below is a diagram illustrating the overall architecture of the Decentralized Au
 - **Enhanced Security**: With blockchain and IPFS, data is encrypted and fragmented, reducing the potential for unauthorized access.
 - **Data Segregation and Access**: Organizations have access only to the specific documents they are permitted to see, as agreed upon by the user.
 
-## Usage 💻
-This section should detail how to navigate the system, manage identity documents, and handle access requests. Include code snippets and command examples where applicable.
-
 ## Contributing 🤝
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
