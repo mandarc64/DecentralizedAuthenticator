@@ -16,7 +16,7 @@ This project introduces a blockchain-based identity management system that provi
 
 Below is a diagram illustrating the overall architecture of the Decentralized Authenticator system:
 
-![System Architecture Diagram]([[link-to-diagram-image](https://raw.githubusercontent.com/mandarc64/DecentralizedAuthenticator/refs/heads/main/projimage.png)])
+![System Architecture Diagram](https://raw.githubusercontent.com/mandarc64/DecentralizedAuthenticator/refs/heads/main/projimage.png)
 
 1. **User Registration**: Users and organizations register by providing an email address. Upon verification, they are prompted to create a secure password.
 2. **Document Management**: Users can upload and categorize their identity documents on the platform. These documents are stored as cryptographic hashes on IPFS and their references are stored on the blockchain.
