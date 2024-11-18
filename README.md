@@ -13,6 +13,11 @@ This project introduces a blockchain-based identity management system that provi
 - **Ganache**: Generates sample blockchain networks for testing, allowing transactions with Ethereum in a controlled environment.
 
 ## System Architecture 🏛️
+
+Below is a diagram illustrating the overall architecture of the Decentralized Authenticator system:
+
+![System Architecture Diagram](link-to-diagram-image)
+
 1. **User Registration**: Users and organizations register by providing an email address. Upon verification, they are prompted to create a secure password.
 2. **Document Management**: Users can upload and categorize their identity documents on the platform. These documents are stored as cryptographic hashes on IPFS and their references are stored on the blockchain.
 3. **Access Control**: Organizations request access to user documents through blockchain transactions. Users grant or deny access based on the transaction requests.
